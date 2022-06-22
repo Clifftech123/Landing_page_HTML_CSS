@@ -1,1 +1,1 @@
-# Landing_page_HTML_CSS
+# This is a landing page using Html and Css only without any css framework or library.
